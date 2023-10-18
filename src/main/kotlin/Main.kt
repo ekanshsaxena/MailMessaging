@@ -4,8 +4,8 @@ import javax.mail.internet.MimeMessage
 import java.util.Properties
 
 fun sendEmail() {
-    val username = "saxenaekansh7@gmail.com" // Your email address
-    val password = "uwmiblxobldiycro" // Your email password
+    val username = "<Email>" // Your email address
+    val password = "<Password>" // Your email password
     val to = "esaxena9927@gmail.com" // Recipient's email address
 
     val props = Properties()
